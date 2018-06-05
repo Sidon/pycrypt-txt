@@ -1,12 +1,12 @@
-``pycryptjson`` - crypt and decrypt a jason file.
+``pycrypttxt`` - crypt and decrypt a txt file.
 #######################################################
 
 
 Description
 ***********
 
-crypt and decrypt a jason file.
-The primary goal for developing this project was obfuscation Django settings.
+crypt and decrypt a txt file.
+The primary goal for developing this project was obfuscation Django settings (json file).
 
 Requirements
 ************
@@ -40,10 +40,44 @@ Install
 Usage
 #####
 
+::
+
    Crypt a file
-   >>>>from core.fcrypt import Cryptjson
-   >>>>c1 = Cryptjson()
-   >>>>c1.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+   >>> from core.fcrypt import CryptText
+   >>> crypt_text = CryptText()
+   >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+Example:
+########
+
+::
+
+   input-file.txt:
+    {
+      "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+      "debug": "on",
+      "ahosts": "localhost,127.0.0.1",
+      "add_apps": ["django_extensions"],
+
+       "db": {
+         "default": {
+            "ENGINE": "django.db.backends.postgresql_psycopg2",
+            "NAME": "my-database",
+            "USER": "database-user",
+            "PASSWORD": "password-99",
+            "HOST": "localhost",
+            "PORT": "5432"
+         }
+       }
+    }
+
+   Crypt a file
+   >>> from core.fcrypt import CryptText
+   >>> crypt_text = CryptText()
+   >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
 
 :Authors:
     Sidon Duarte,

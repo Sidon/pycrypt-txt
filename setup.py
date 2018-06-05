@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='pycrypttxt',
+    name='pycryp-ttxt',
     version='0.1.0',
     url='https://github.com/sidon/pycryptjs',
     license='MIT License',
