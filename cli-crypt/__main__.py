@@ -8,7 +8,6 @@ parser.add_argument("key", help="Encryption key 16, 24, or 32 bytes long")
 
 args = parser.parse_args()
 
-
 def main(args):
 
     # Crypt the input file
@@ -19,6 +18,8 @@ def main(args):
     for line in crypted_text:
         fo.write(line)
     fo.close()
+
+    print("Successful Encryption, {} encrypted to {}".format(args.inputfile, args.outputfile))
 
 
 if __name__ == "__main__":

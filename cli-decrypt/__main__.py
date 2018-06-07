@@ -11,14 +11,14 @@ args = parser.parse_args()
 
 def main(args):
 
+    # Open output file
+    fo = open(args.outputfile, 'w')
+
     # deCrypt the input file
     decrypted_text = CryptText.decrypt(args.inputfile, args.key)
 
     # save the encrypted inputed file
-    fo = open(args.outputfile, 'wb')
-    for line in crypted_text:
-        fo.write(line)
-    fo.close()
+    fo.write(decrypted_text )
 
 
 if __name__ == "__main__":
