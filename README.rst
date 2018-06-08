@@ -5,7 +5,7 @@
 Description
 ***********
 
-crypt and decrypt a txt file.
+Minify a json file, crypt and decrypt a txt file.
 The primary goal for developing this project was obfuscation Django settings (json file).
 
 :Authors:
@@ -46,17 +46,15 @@ Install
 Usage
 #####
 
+
+Minify a json file
+*******************
+
 ::
 
-
-    Crypt a file
-    >>> from pycrypttxt.fcrypt import CryptText
-    >>> crypt_text = CryptText()
-    >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
-
-
+    Original file:
     {
-      "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+      "secretk": "qq6**ci+meh34=n)o_299ee523ga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
       "debug": "on",
       "ahosts": "localhost,127.0.0.1",
       "add_apps": ["django_extensions"],
@@ -73,10 +71,44 @@ Usage
        }
     }
 
-   Crypt a file
-   >>> from core.fcrypt import CryptText
-   >>> crypt_text = CryptText()
-   >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+    >>> from pysdncrypt.encdec import CryptText
+    >>> CryptText.minifyjson('original-file', 'original-file-mini')
+    True
+
+Encrypt a txt file
+*******************
+
+::
+
+    >>>> crypted_file = CryptText.encrypt('original-mini', '0123456789012345')
 
 
 
+Dencrypt a txt file
+*******************
+
+::
+
+    >>>> crypted_file = CryptText.decrypt('file-crypted', '0123456789012345')
+
+
+Line Commands
+##############
+
+
+::
+
+    Minifing a json file:
+    -----------------------
+    $ sdnjsonminify config-original config-minify
+    Successful minification, config-original minified to config-minify
+
+    Encrypting a text file:
+    -----------------------
+    $ sdnencrypt config-original-mini config-original-mini-encrypted 0123456789012345
+    Successful Encryption, config-original-mini encrypted to config-original-mini-encrypted
+
+    Decrypting a text file:
+    -----------------------
+    $ sdndecrypt config-original-mini-encrypted config-original-mini-decrypted 0123456789012345
+    Successful Encryption, config-original-mini-encrypted encrypted to config-original-mini-decrypted

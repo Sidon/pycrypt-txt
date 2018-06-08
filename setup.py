@@ -15,7 +15,7 @@ setup(
     entry_points={
         "console_scripts": [
             'sdnjsonminify = clijsonminify.__main__:main',
-            'sdncrypt = clicrypt.__main__:main',
+            'sdnencrypt = clicrypt.__main__:main',
             'sdndecrypt = clidecrypt.__main__:main',
         ]
     }
