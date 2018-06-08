@@ -7,7 +7,7 @@ from Crypto.Cipher import AES
 class CryptText:
 
     @classmethod
-    def crypt(cls, text_file, key):
+    def encrypt(cls, text_file, key):
         '''
         Encrypt a text file
         :param text_file: File that will be encrypted
@@ -45,23 +45,14 @@ class CryptText:
         :return:
         '''
 
-        # Object for cli-decrypt configurations
+        # Object for clidecrypt configurations
         decryption = AES.new(key, AES.MODE_CBC, 'This is an IV456')
 
         # Load encrypted  file
         crypted_file = open(crypted_file, 'rb').read()
 
-        print("Aquivo encripitaro: {}".format(crypted_file))
-
-        # # with open(crypted_file, 'rb') as f:
-        # #     crypted_lines = f.read()
-        #
-        # # Decrypt file
-        # decrypt_lines = decryption.decrypt(crypted_lines).decode()
-
         decrypted_str = decryption.decrypt(crypted_file).decode()
 
-        print (decrypted_str)
-
         return decrypted_str
+
 

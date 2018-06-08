@@ -1,14 +1,13 @@
 import argparse
 import json
-
 parser = argparse.ArgumentParser()
 parser.add_argument("inputfile", help="File to be encrypted")
 parser.add_argument("outputfile", help='Encrypted output file')
 
 args = parser.parse_args()
 
-def main(args):
 
+def main():
 
     # Open inputfile
     json_input = open(args.inputfile, 'r').read()
@@ -21,15 +20,5 @@ def main(args):
 
 
 if __name__ == "__main__":
-    main(args)
+    main()
 
-
-
-
-
-
-
-@classmethod
-def diff_json(cls, _file1, _file2):
-
-    json_mini = json.dumps(json.loads(json_txt), separators=(',', ':'))

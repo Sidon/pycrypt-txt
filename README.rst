@@ -43,6 +43,810 @@ Usage
 ::
 
    Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.encdec import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+      >>> from core.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.encdec import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+      >>> from core.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.encdec import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+      >>> from core.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.encdec import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+      >>> from core.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.encdec import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+      >>> from core.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.encdec import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+      >>> from core.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.encdec import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+      >>> from core.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pysdncrypt.encdec import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+      >>> from core.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from pysdncrypt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+      >>> from core.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from pysdncrypt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+      >>> from core.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from pysdncrypt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+      >>> from core.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from pysdncrypt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+      >>> from core.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+      >>> from pycrypttxt.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
+      >>> from pycrypttxt.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
+
+
+
    >>> from core.fcrypt import CryptText
    >>> crypt_text = CryptText()
    >>> crypt_text.crypt('input-file-name','output-file-name','a-16*n-digit-key')
@@ -54,6 +858,3490 @@ Example:
 ::
 
    input-file.txt:
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.encdec import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+       {
+         "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+         "debug": "on",
+         "ahosts": "localhost,127.0.0.1",
+         "add_apps": ["django_extensions"],
+
+          "db": {
+            "default": {
+               "ENGINE": "django.db.backends.postgresql_psycopg2",
+               "NAME": "my-database",
+               "USER": "database-user",
+               "PASSWORD": "password-99",
+               "HOST": "localhost",
+               "PORT": "5432"
+            }
+          }
+       }
+
+      Crypt a file
+      >>> from core.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.encdec import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+       {
+         "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+         "debug": "on",
+         "ahosts": "localhost,127.0.0.1",
+         "add_apps": ["django_extensions"],
+
+          "db": {
+            "default": {
+               "ENGINE": "django.db.backends.postgresql_psycopg2",
+               "NAME": "my-database",
+               "USER": "database-user",
+               "PASSWORD": "password-99",
+               "HOST": "localhost",
+               "PORT": "5432"
+            }
+          }
+       }
+
+      Crypt a file
+      >>> from core.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.encdec import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+       {
+         "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+         "debug": "on",
+         "ahosts": "localhost,127.0.0.1",
+         "add_apps": ["django_extensions"],
+
+          "db": {
+            "default": {
+               "ENGINE": "django.db.backends.postgresql_psycopg2",
+               "NAME": "my-database",
+               "USER": "database-user",
+               "PASSWORD": "password-99",
+               "HOST": "localhost",
+               "PORT": "5432"
+            }
+          }
+       }
+
+      Crypt a file
+      >>> from core.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.encdec import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+       {
+         "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+         "debug": "on",
+         "ahosts": "localhost,127.0.0.1",
+         "add_apps": ["django_extensions"],
+
+          "db": {
+            "default": {
+               "ENGINE": "django.db.backends.postgresql_psycopg2",
+               "NAME": "my-database",
+               "USER": "database-user",
+               "PASSWORD": "password-99",
+               "HOST": "localhost",
+               "PORT": "5432"
+            }
+          }
+       }
+
+      Crypt a file
+      >>> from core.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.encdec import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+       {
+         "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+         "debug": "on",
+         "ahosts": "localhost,127.0.0.1",
+         "add_apps": ["django_extensions"],
+
+          "db": {
+            "default": {
+               "ENGINE": "django.db.backends.postgresql_psycopg2",
+               "NAME": "my-database",
+               "USER": "database-user",
+               "PASSWORD": "password-99",
+               "HOST": "localhost",
+               "PORT": "5432"
+            }
+          }
+       }
+
+      Crypt a file
+      >>> from core.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.encdec import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+       {
+         "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+         "debug": "on",
+         "ahosts": "localhost,127.0.0.1",
+         "add_apps": ["django_extensions"],
+
+          "db": {
+            "default": {
+               "ENGINE": "django.db.backends.postgresql_psycopg2",
+               "NAME": "my-database",
+               "USER": "database-user",
+               "PASSWORD": "password-99",
+               "HOST": "localhost",
+               "PORT": "5432"
+            }
+          }
+       }
+
+      Crypt a file
+      >>> from core.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.encdec import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+       {
+         "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+         "debug": "on",
+         "ahosts": "localhost,127.0.0.1",
+         "add_apps": ["django_extensions"],
+
+          "db": {
+            "default": {
+               "ENGINE": "django.db.backends.postgresql_psycopg2",
+               "NAME": "my-database",
+               "USER": "database-user",
+               "PASSWORD": "password-99",
+               "HOST": "localhost",
+               "PORT": "5432"
+            }
+          }
+       }
+
+      Crypt a file
+      >>> from core.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pycrypttxt.fcrypt import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+             {
+               "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+               "debug": "on",
+               "ahosts": "localhost,127.0.0.1",
+               "add_apps": ["django_extensions"],
+
+                "db": {
+                  "default": {
+                     "ENGINE": "django.db.backends.postgresql_psycopg2",
+                     "NAME": "my-database",
+                     "USER": "database-user",
+                     "PASSWORD": "password-99",
+                     "HOST": "localhost",
+                     "PORT": "5432"
+                  }
+                }
+             }
+
+            Crypt a file
+            >>> from pysdncrypt.encdec import CryptText
+            >>> crypt_text = CryptText()
+            >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from core.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+       {
+         "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+         "debug": "on",
+         "ahosts": "localhost,127.0.0.1",
+         "add_apps": ["django_extensions"],
+
+          "db": {
+            "default": {
+               "ENGINE": "django.db.backends.postgresql_psycopg2",
+               "NAME": "my-database",
+               "USER": "database-user",
+               "PASSWORD": "password-99",
+               "HOST": "localhost",
+               "PORT": "5432"
+            }
+          }
+       }
+
+      Crypt a file
+      >>> from core.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from pysdncrypt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+       {
+         "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+         "debug": "on",
+         "ahosts": "localhost,127.0.0.1",
+         "add_apps": ["django_extensions"],
+
+          "db": {
+            "default": {
+               "ENGINE": "django.db.backends.postgresql_psycopg2",
+               "NAME": "my-database",
+               "USER": "database-user",
+               "PASSWORD": "password-99",
+               "HOST": "localhost",
+               "PORT": "5432"
+            }
+          }
+       }
+
+      Crypt a file
+      >>> from core.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from pysdncrypt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+       {
+         "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+         "debug": "on",
+         "ahosts": "localhost,127.0.0.1",
+         "add_apps": ["django_extensions"],
+
+          "db": {
+            "default": {
+               "ENGINE": "django.db.backends.postgresql_psycopg2",
+               "NAME": "my-database",
+               "USER": "database-user",
+               "PASSWORD": "password-99",
+               "HOST": "localhost",
+               "PORT": "5432"
+            }
+          }
+       }
+
+      Crypt a file
+      >>> from core.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from pysdncrypt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+       {
+         "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+         "debug": "on",
+         "ahosts": "localhost,127.0.0.1",
+         "add_apps": ["django_extensions"],
+
+          "db": {
+            "default": {
+               "ENGINE": "django.db.backends.postgresql_psycopg2",
+               "NAME": "my-database",
+               "USER": "database-user",
+               "PASSWORD": "password-99",
+               "HOST": "localhost",
+               "PORT": "5432"
+            }
+          }
+       }
+
+      Crypt a file
+      >>> from core.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from pycrypttxt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+          {
+            "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+            "debug": "on",
+            "ahosts": "localhost,127.0.0.1",
+            "add_apps": ["django_extensions"],
+
+             "db": {
+               "default": {
+                  "ENGINE": "django.db.backends.postgresql_psycopg2",
+                  "NAME": "my-database",
+                  "USER": "database-user",
+                  "PASSWORD": "password-99",
+                  "HOST": "localhost",
+                  "PORT": "5432"
+               }
+             }
+          }
+
+         Crypt a file
+         >>> from pysdncrypt.fcrypt import CryptText
+         >>> crypt_text = CryptText()
+         >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+       {
+         "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+         "debug": "on",
+         "ahosts": "localhost,127.0.0.1",
+         "add_apps": ["django_extensions"],
+
+          "db": {
+            "default": {
+               "ENGINE": "django.db.backends.postgresql_psycopg2",
+               "NAME": "my-database",
+               "USER": "database-user",
+               "PASSWORD": "password-99",
+               "HOST": "localhost",
+               "PORT": "5432"
+            }
+          }
+       }
+
+      Crypt a file
+      >>> from core.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+       {
+         "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+         "debug": "on",
+         "ahosts": "localhost,127.0.0.1",
+         "add_apps": ["django_extensions"],
+
+          "db": {
+            "default": {
+               "ENGINE": "django.db.backends.postgresql_psycopg2",
+               "NAME": "my-database",
+               "USER": "database-user",
+               "PASSWORD": "password-99",
+               "HOST": "localhost",
+               "PORT": "5432"
+            }
+          }
+       }
+
+      Crypt a file
+      >>> from pycrypttxt.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
+       {
+         "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
+         "debug": "on",
+         "ahosts": "localhost,127.0.0.1",
+         "add_apps": ["django_extensions"],
+
+          "db": {
+            "default": {
+               "ENGINE": "django.db.backends.postgresql_psycopg2",
+               "NAME": "my-database",
+               "USER": "database-user",
+               "PASSWORD": "password-99",
+               "HOST": "localhost",
+               "PORT": "5432"
+            }
+          }
+       }
+
+      Crypt a file
+      >>> from pycrypttxt.fcrypt import CryptText
+      >>> crypt_text = CryptText()
+      >>> crypt_text.crypt('input-file.txt','output-file.bin','1234567890123456')
+
+
+
+
     {
       "secretk": "w6**ci+meh34=n)o_299ee5qga7ubb&pb30=iyx^5$+v-_iv+u)!nw",
       "debug": "on",
